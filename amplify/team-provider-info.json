@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactscratch-dev-d99d8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::226388486048:role/amplify-reactscratch-dev-d99d8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::226388486048:role/amplify-reactscratch-dev-d99d8-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactscratch-dev-d99d8-deployment",
+      "UnauthRoleName": "amplify-reactscratch-dev-d99d8-unauthRole",
+      "StackName": "amplify-reactscratch-dev-d99d8",
+      "StackId": "arn:aws:cloudformation:us-east-1:226388486048:stack/amplify-reactscratch-dev-d99d8/ad4826b0-8b0c-11ef-a63d-122c77988875",
+      "AmplifyAppId": "d1xoldnzcjmb7g"
+    },
+    "categories": {
+      "api": {
+        "reactscratch": {}
+      }
+    }
+  }
+}
